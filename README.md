@@ -1,6 +1,5 @@
 [![GitHub issues](https://img.shields.io/github/issues/Naereen/StrapDown.js.svg)](https://github.com/BumbleBee0819/https://github.com/BumbleBee0819/VR_Haptic/issues/)
-[![Matlab](https://img.shields.io/badge/language-Matlab-red.svg)]()
-[![C\#](https://img.shields.io/badge/language-C\#-red.svg)]()
+[![C%23](https://img.shields.io/badge/language-C%23-red.svg)]()
 ![Total visitor](https://visitor-count-badge.herokuapp.com/total.svg?repo_id=VR_haptic)
 ![Visitors in today](https://visitor-count-badge.herokuapp.com/today.svg?repo_id=VR_haptic)
 
