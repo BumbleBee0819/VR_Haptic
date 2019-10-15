@@ -7,10 +7,7 @@
 <h1 align="center"> Interaction between static visual cues and force-feedback on the perception of mass of virtual objects </h1>
 
 <p align="center">
-    <img width=24% src="MLDS_Experiment/Z_demo/Cotton_BendingStiffness=25_Scene1.gif">
-    <img width=24% src="MLDS_Experiment/Z_demo/Cotton_BendingStiffness=25_Scene2.gif">
-    <img width=24% src="MLDS_Experiment/Z_demo/Silk_BendingStiffness=25_Scene1.gif">
-    <img width=24% src="MLDS_Experiment/Z_demo/Silk_BendingStiffness=25_Scene2.gif">
+    <img width=90% src="https://github.com/BumbleBee0819/VR_Haptic/blob/master/demo/Task.jpg">
 
 
 
