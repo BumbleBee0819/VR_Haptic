@@ -2,13 +2,13 @@
 [![C%23](https://img.shields.io/badge/language-C%23-red.svg)]()
 ![Total visitor](https://visitor-count-badge.herokuapp.com/total.svg?repo_id=VR_haptic)
 ![Visitors in today](https://visitor-count-badge.herokuapp.com/today.svg?repo_id=VR_haptic)
-
+> since 2019-10-15 16:07
 
 <h1 align="center"> Interaction between static visual cues and force-feedback on the perception of mass of virtual objects </h1>
 
 <p align="center">
     <img width=90% src="https://github.com/BumbleBee0819/VR_Haptic/blob/master/demo/Task.jpg">
-> since 2019-10-15 16:07
+
 
 
 ## Description    
