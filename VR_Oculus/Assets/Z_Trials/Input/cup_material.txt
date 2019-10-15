@@ -1,0 +1,11 @@
+Wood
+Cloth
+Marble
+Foam
+Foam
+Wood
+WickerBasket
+WickerBasket
+CorrodedMetal
+Marble
+Marble

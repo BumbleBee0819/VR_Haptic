@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 78b2425a2284af743826c689403a4924, type: 3}
+  m_Name: MF_RadialGradientExponential
+  m_EditorClassIdentifier: 
+  m_functionInfo: "// Made with Amplify Shader Editor\n// Available at the Unity Asset
+    Store - http://u3d.as/y3X \n/*ASEBEGIN\nVersion=15301\n577;156;1889;805;404.7941;281.9766;1.554417;True;True\nNode;AmplifyShaderEditor.CommentaryNode;12;-432.6059,-558.8406;Float;False;654.3942;347.3331;User
+    Sphere Density, avoids center pinch but has absolute edge at radius;4;7;8;9;10;;1,1,1,1;0;0\nNode;AmplifyShaderEditor.CommentaryNode;19;-108.5063,-167.7884;Float;False;648.8654;365.8241;Normal
+    Density;3;14;15;16;;1,1,1,1;0;0\nNode;AmplifyShaderEditor.CommentaryNode;21;-108.1525,264.9199;Float;False;652.0292;360.5197;Inverted
+    Density;1;20;;1,1,1,1;0;0\nNode;AmplifyShaderEditor.LerpOp;25;813.8755,171.9133;Float;False;3;0;FLOAT;0;False;1;FLOAT;0;False;2;FLOAT;0;False;1;FLOAT;0\nNode;AmplifyShaderEditor.FunctionInput;4;-1276.828,7.459377;Float;False;Center
+    Position;2;1;False;1;0;FLOAT2;0.5,0.5;False;1;FLOAT2;0\nNode;AmplifyShaderEditor.OneMinusNode;20;353.7679,434.6097;Float;False;1;0;FLOAT;0;False;1;FLOAT;0\nNode;AmplifyShaderEditor.ClampOpNode;15;283.8553,-117.7884;Float;False;3;0;FLOAT;0;False;1;FLOAT;0;False;2;FLOAT;0;False;1;FLOAT;0\nNode;AmplifyShaderEditor.SimpleMultiplyOpNode;6;-633.6711,-85.83462;Float;False;2;2;0;FLOAT;0;False;1;FLOAT;1;False;1;FLOAT;0\nNode;AmplifyShaderEditor.FunctionNode;29;0.9079875,422.1746;Float;False;MF_ExponentialDensity;-1;;3;28607bcd902cddf44bb91012a70b38ee;0;3;11;FLOAT;0;False;12;FLOAT;0;False;13;FLOAT;1;False;1;FLOAT;0\nNode;AmplifyShaderEditor.FunctionNode;30;95.72755,47.56;Float;False;MF_ExponentialDensity;-1;;4;28607bcd902cddf44bb91012a70b38ee;0;3;11;FLOAT;0;False;12;FLOAT;0;False;13;FLOAT;1;False;1;FLOAT;0\nNode;AmplifyShaderEditor.SqrtOpNode;10;67.78836,-412.9795;Float;False;1;0;FLOAT;0;False;1;FLOAT;0\nNode;AmplifyShaderEditor.FunctionInput;26;373.9729,700.4145;Float;False;Invert
+    Density;0;4;False;1;0;INT;0;False;1;INT;0\nNode;AmplifyShaderEditor.FunctionInput;13;-763.0087,312.8254;Float;False;Density;1;3;False;1;0;FLOAT;2.333;False;1;FLOAT;0\nNode;AmplifyShaderEditor.FunctionInput;2;-1278.647,-247.565;Float;False;UVs;2;0;False;1;0;FLOAT2;1,1;False;1;FLOAT2;0\nNode;AmplifyShaderEditor.SimpleMultiplyOpNode;8;-378.0415,-344.5075;Float;False;2;2;0;FLOAT;0;False;1;FLOAT;0;False;1;FLOAT;0\nNode;AmplifyShaderEditor.SimpleSubtractOpNode;9;-137.628,-417.5443;Float;False;2;0;FLOAT;0;False;1;FLOAT;0;False;1;FLOAT;0\nNode;AmplifyShaderEditor.SimpleMultiplyOpNode;7;-382.6059,-508.8406;Float;False;2;2;0;FLOAT;0;False;1;FLOAT;0;False;1;FLOAT;0\nNode;AmplifyShaderEditor.SimpleDivideOpNode;11;-381.0847,40.45837;Float;False;2;0;FLOAT;0;False;1;FLOAT;0;False;1;FLOAT;0\nNode;AmplifyShaderEditor.DistanceOpNode;3;-890.6458,-123.6958;Float;False;2;0;FLOAT2;0,0;False;1;FLOAT2;0,0;False;1;FLOAT;0\nNode;AmplifyShaderEditor.FunctionInput;5;-1275.007,187.7981;Float;False;Radius;1;2;False;1;0;FLOAT;0.5;False;1;FLOAT;0\nNode;AmplifyShaderEditor.OneMinusNode;14;-80.26814,-21.86152;Float;False;1;0;FLOAT;0;False;1;FLOAT;0\nNode;AmplifyShaderEditor.OneMinusNode;16;373.5664,83.37243;Float;False;1;0;FLOAT;0;False;1;FLOAT;0\nNode;AmplifyShaderEditor.FunctionOutput;0;1063.595,170.3624;Float;False;True;Result;0;True;1;0;FLOAT;0;False;1;FLOAT;0\nWireConnection;25;0;16;0\nWireConnection;25;1;29;0\nWireConnection;25;2;26;0\nWireConnection;20;0;29;0\nWireConnection;15;0;14;0\nWireConnection;6;0;3;0\nWireConnection;29;11;11;0\nWireConnection;29;12;13;0\nWireConnection;30;11;14;0\nWireConnection;30;12;13;0\nWireConnection;10;0;9;0\nWireConnection;8;0;6;0\nWireConnection;8;1;6;0\nWireConnection;9;0;7;0\nWireConnection;9;1;8;0\nWireConnection;7;0;5;0\nWireConnection;7;1;5;0\nWireConnection;11;0;6;0\nWireConnection;11;1;5;0\nWireConnection;3;0;2;0\nWireConnection;3;1;4;0\nWireConnection;14;0;11;0\nWireConnection;16;0;30;0\nWireConnection;0;0;25;0\nASEEND*/\n//CHKSM=4F1CDF376D1CA98E3A981EBC53343489DF5D81FC"
+  m_functionName: 
+  m_description: 
+  m_additionalIncludes:
+    m_additionalIncludes: []
+    m_outsideIncludes: []
+  m_additionalPragmas:
+    m_additionalPragmas: []
+    m_outsidePragmas: []
+  m_nodeCategory: 3
+  m_customNodeCategory: 
+  m_previewPosition: 0
