@@ -11,10 +11,12 @@
 
 
 
-## Description    
 This immersive VR environment is built in the [Unity (v 2018.3.0f2)](https://unity.com/) game engine with [Oculus Rift](https://www.oculus.com/) and [3D systems Touch X](https://www.3dsystems.com/haptics-devices/touch-x) haptic force-feedback device.
 
 
+
+
+##
 <div class="image12">
     <p align="center"><img width = 55% src="MLDS_Experiment/Z_demo/ui.gif"></p>
 </div>
