@@ -12,8 +12,7 @@
 
 
 ## Description    
-In this project, we use Blender (2.7.6) rendered cloth animations as our dataset.
-* First, we used a maximum likelihood differential scaling (MLDS) method to measure the human perceptual scale of cloth stiffness. Codes and instructions of this experiment can be found in the [MLDS_Experiment](https://github.com/BumbleBee0819/Estimating_mechanical_properties_of_cloth/tree/master/MLDS_Experiment) folder. 
+This immersive VR environment is built in the [Unity (v 2018.3.0f2)](https://unity.com/) game engine with [Oculus Rift](https://www.oculus.com/) and [3D systems Touch X](https://www.3dsystems.com/haptics-devices/touch-x) haptic force-feedback device.
 
 
 <div class="image12">
