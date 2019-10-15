@@ -1,14 +1,11 @@
-[![GitHub issues](https://img.shields.io/github/issues/Naereen/StrapDown.js.svg)](https://github.com/BumbleBee0819/Estimating_mechanical_properties_of_cloth/issues/)
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+[![GitHub issues](https://img.shields.io/github/issues/Naereen/StrapDown.js.svg)](https://github.com/BumbleBee0819/https://github.com/BumbleBee0819/VR_Haptic/issues/)
 [![Matlab](https://img.shields.io/badge/language-Matlab-red.svg)]()
-[![R](https://img.shields.io/badge/language-R-red.svg)]()
-[![BashScript](https://img.shields.io/badge/language-BashScript-red.svg)]()
-[![C](https://img.shields.io/badge/language-C-red.svg)]()
-![Total visitor](https://visitor-count-badge.herokuapp.com/total.svg?repo_id=dense_traject)
-![Visitors in today](https://visitor-count-badge.herokuapp.com/today.svg?repo_id=dense_traject)
+[![C#](https://img.shields.io/badge/language-C#-red.svg)]()
+![Total visitor](https://visitor-count-badge.herokuapp.com/total.svg?repo_id=VR_haptic)
+![Visitors in today](https://visitor-count-badge.herokuapp.com/today.svg?repo_id=VR_haptic)
 
 
-<h1 align="center"> Estimating mechanical properties of cloth from videos using dense motion trajectories: Human psychophysics and machine learning </h1>
+<h1 align="center"> Interaction between static visual cues and force-feedback on the perception of mass of virtual objects </h1>
 
 <p align="center">
     <img width=24% src="MLDS_Experiment/Z_demo/Cotton_BendingStiffness=25_Scene1.gif">
