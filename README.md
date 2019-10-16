@@ -38,7 +38,7 @@ Equipment ([High resolution](https://www.youtube.com/embed/r5r8Opkl3zw?autoplay=
 ## Usage:
 * The experimental design is explained in [our paper](https://dl.acm.org/citation.cfm?id=3225177).
 * For each subject, you first need to run [GenerateConditionFile.py](https://github.com/BumbleBee0819/VR_Haptic/tree/master/VR_Oculus/Assets/Z_Trials/Input/GenerateConditionFile.py) to generate the condition files: [cup_mass.txt](https://github.com/BumbleBee0819/VR_Haptic/tree/master/VR_Oculus/Assets/Z_Trials/Input/cup_mass.txt), [cup_material.txt](https://github.com/BumbleBee0819/VR_Haptic/tree/master/VR_Oculus/Assets/Z_Trials/Input/cup_material.txt), and [cup_scale.txt](https://github.com/BumbleBee0819/VR_Haptic/tree/master/VR_Oculus/Assets/Z_Trials/Input/cup_scale.txt).
-* The data for each subject is saved in the [output](https://github.com/BumbleBee0819/VR_Haptic/tree/master/VR_Oculus/Assets/Z_Trials/Output) folder.
+* The data for each subject is saved in the [output](https://github.com/BumbleBee0819/VR_Haptic/tree/master/VR_Oculus/Assets/Z_Trials/Output) folder. It will automatically create a result folder for each subject. The results of each trial is saved in one .txt file. The .txt file is named following the pattern: trialNumber_ Time:h_Time:m_ratedMass_Material_Scale_groudTruthMass.txt.
 
 
 
