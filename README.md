@@ -36,7 +36,7 @@ Equipment ([High resolution](https://www.youtube.com/embed/r5r8Opkl3zw?autoplay=
 
 
 <p align="center">
-    <img width=90% src="/demo/experiment.jpg">
+    <img width=60% src="/demo/experiment.jpg">
 <p align="center">Cubes rendered with different materials</strong></p>
 
 ## Usage:
