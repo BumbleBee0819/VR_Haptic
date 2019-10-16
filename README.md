@@ -29,17 +29,21 @@ Solarized dark             |  Solarized Ocean
 ![](https://github.com/BumbleBee0819/VR_Haptic/blob/master/demo/vid1.gif)  |  ![](https://github.com/BumbleBee0819/VR_Haptic/blob/master/demo/vid1.gif)
 
 
+<div class="half">
+  <div float=left width = 50% padding-right=10px> 
+    <img src="https://github.com/BumbleBee0819/VR_Haptic/blob/master/demo/vid1.gif" alt="">
+    <p>caption 1</p>
+  </div>
+<div float=left width = 50% padding-right=10px> 
+    <img src="https://github.com/BumbleBee0819/VR_Haptic/blob/master/demo/vid1.gif" alt="">
+    <p>caption 2</p>
+  </div>
 
-* - .. figure:: https://github.com/BumbleBee0819/VR_Haptic/blob/master/demo/vid1.gif
-
-       Fig 1. Representations
-
-  - .. figure:: https://github.com/BumbleBee0819/VR_Haptic/blob/master/demo/vid1.gif
-
-       Fig 2. Transparency
-
-
-
+  .half div {
+  float: left;
+  width: 50%;
+  padding-right: 10px;
+}
 
 
 
