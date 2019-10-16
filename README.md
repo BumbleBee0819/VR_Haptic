@@ -33,20 +33,6 @@ Equipment             |  User Interface
 
 
 
-<div class="image12">
-    <p align="center">
-    	<img width = 45% src="https://github.com/BumbleBee0819/VR_Haptic/blob/master/demo/vid1.gif">\
-    	my caption
-		<img width = 45% src="https://github.com/BumbleBee0819/VR_Haptic/blob/master/demo/vid1.gif">
-</div>
-
-<div class="image12">
-    <p align="center">
-    	<p width = 45% Maximum likelihood differential scaling (MLDS)>
-		<p width = 45% Maximum likelihood differential scaling (MLDS)>
-</div>
-
-
 
 * Next, we extracted the dense motion trajectory features of all the cloth videos.
 
