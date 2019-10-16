@@ -32,6 +32,14 @@ Equipment             |  User Interface
 
 
 
+[![Alt text](https://img.youtube.com/vi/VID/0.jpg)](https://www.youtube.com/embed/9etHTGH1M8Y)
+
+
+
+
+
+
+
 
 
 * Next, we extracted the dense motion trajectory features of all the cloth videos.
