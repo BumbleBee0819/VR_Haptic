@@ -30,6 +30,18 @@ Solarized dark             |  Solarized Ocean
 
 
 
+* - .. figure:: https://github.com/BumbleBee0819/VR_Haptic/blob/master/demo/vid1.gif
+
+       Fig 1. Representations
+
+  - .. figure:: https://github.com/BumbleBee0819/VR_Haptic/blob/master/demo/vid1.gif
+
+       Fig 2. Transparency
+
+
+
+
+
 
 <div class="image12">
     <p align="center">
