@@ -24,40 +24,10 @@ This immersive VR game is built in the [Unity](https://unity.com/) (version 2018
 
 ## Demo
 
-
-
-
-
-##
-
-<ul>
-  <li class="container" float='left'>
-    <img class="image" src="https://github.com/BumbleBee0819/VR_Haptic/blob/master/demo/vid1.gif"/>
-    <span class="caption" text-alight='center'>my caption</span>
-  </li>
-  <li class="container" float='left'>
-    <img class="image" src="https://github.com/BumbleBee0819/VR_Haptic/blob/master/demo/vid1.gif"/>
-    <span class="caption" text-alight='center'>my caption</span>
-  </li>
-</ul>
-
-.container {
-  float: left;
-}
-
-.image {
-  display: block
-}
-
-.caption {
-  display: block;
-  width: 100%;
-  text-align: center; //assuming centered captions
-}
-
 <div class="image12">
     <p align="center">
-    	<img width = 45% src="https://github.com/BumbleBee0819/VR_Haptic/blob/master/demo/vid1.gif">
+    	<img width = 45% src="https://github.com/BumbleBee0819/VR_Haptic/blob/master/demo/vid1.gif">\
+    	my caption
 		<img width = 45% src="https://github.com/BumbleBee0819/VR_Haptic/blob/master/demo/vid1.gif">
 </div>
 
