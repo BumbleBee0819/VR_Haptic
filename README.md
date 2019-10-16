@@ -1,5 +1,6 @@
 [![GitHub issues](https://img.shields.io/github/issues/Naereen/StrapDown.js.svg)](https://github.com/BumbleBee0819/https://github.com/BumbleBee0819/VR_Haptic/issues/)
 [![C%23](https://img.shields.io/badge/language-C%23-red.svg)]()
+[![Python](https://img.shields.io/badge/language-Python-red.svg)]()
 ![Total visitor](https://visitor-count-badge.herokuapp.com/total.svg?repo_id=VR_haptic)
 ![Visitors in today](https://visitor-count-badge.herokuapp.com/today.svg?repo_id=VR_haptic)
 > since 2019-10-15 16:07
@@ -37,8 +38,8 @@ Equipment ([High resolution](https://www.youtube.com/embed/r5r8Opkl3zw?autoplay=
 
 ## Usage:
 * The experimental design is explained in [our paper](https://dl.acm.org/citation.cfm?id=3225177).
-* For each subject, you first need to run [GenerateConditionFile.py](https://github.com/BumbleBee0819/VR_Haptic/tree/master/VR_Oculus/Assets/Z_Trials/Input/GenerateConditionFile.py) to generate the condition files: [cup_mass.txt](https://github.com/BumbleBee0819/VR_Haptic/tree/master/VR_Oculus/Assets/Z_Trials/Input/cup_mass.txt), [cup_material.txt](https://github.com/BumbleBee0819/VR_Haptic/tree/master/VR_Oculus/Assets/Z_Trials/Input/cup_material.txt), and [cup_scale.txt](https://github.com/BumbleBee0819/VR_Haptic/tree/master/VR_Oculus/Assets/Z_Trials/Input/cup_scale.txt).
-* The data for each subject is saved in the [output](https://github.com/BumbleBee0819/VR_Haptic/tree/master/VR_Oculus/Assets/Z_Trials/Output) folder. It will automatically create a result folder for each subject (e.g., [bi](https://github.com/BumbleBee0819/VR_Haptic/tree/master/VR_Oculus/Assets/Z_Trials/Output/bi)). The results of each trial is saved in one .txt file (e.g., 1_11_43_29_Cloth_0.5_1.0.txt). The .txt file is named following the pattern: trialNumber_ Time:h_Time:m_ratedMass_Material_Scale_groudTruthMass.txt.
+* For each user, you first need to run [GenerateConditionFile.py](https://github.com/BumbleBee0819/VR_Haptic/tree/master/VR_Oculus/Assets/Z_Trials/Input/GenerateConditionFile.py) to generate the condition files: [cup_mass.txt](https://github.com/BumbleBee0819/VR_Haptic/tree/master/VR_Oculus/Assets/Z_Trials/Input/cup_mass.txt), [cup_material.txt](https://github.com/BumbleBee0819/VR_Haptic/tree/master/VR_Oculus/Assets/Z_Trials/Input/cup_material.txt), and [cup_scale.txt](https://github.com/BumbleBee0819/VR_Haptic/tree/master/VR_Oculus/Assets/Z_Trials/Input/cup_scale.txt).
+* The data for each user is saved in the [output](https://github.com/BumbleBee0819/VR_Haptic/tree/master/VR_Oculus/Assets/Z_Trials/Output) folder. It will automatically generate a result folder for each user (e.g., [bi](https://github.com/BumbleBee0819/VR_Haptic/tree/master/VR_Oculus/Assets/Z_Trials/Output/bi)). The results of each trial is saved in one .txt file (e.g., 1_11_43_29_Cloth_0.5_1.0.txt). The .txt file is named following the pattern: trialNumber_ timeHour_timeMinute_ratedMass_Material_Scale_groudTruthMass.txt.
 
 
 
