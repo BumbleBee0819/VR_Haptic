@@ -30,9 +30,12 @@ This immersive VR game is built in the [Unity](https://unity.com/) (version 2018
 
 ##
 <div class="image12">
-    <p align="center"><img width = 55% src="https://github.com/BumbleBee0819/VR_Haptic/blob/master/demo/vid1.gif"></p>
+    <p align="center"><img width = 45% src="https://github.com/BumbleBee0819/VR_Haptic/blob/master/demo/vid1.gif"></p>
+    <p align="center">Maximum likelihood differential scaling (MLDS)</strong></p>
+        <p align="center"><img width = 45% src="https://github.com/BumbleBee0819/VR_Haptic/blob/master/demo/vid1.gif"></p>
+    <p align="center">Maximum likelihood differential scaling (MLDS)</strong></p>
 </div>
-<p align="center">Maximum likelihood differential scaling (MLDS)</strong></p>
+
 
 
 * Next, we extracted the dense motion trajectory features of all the cloth videos.
