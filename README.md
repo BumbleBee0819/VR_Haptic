@@ -15,12 +15,12 @@ This immersive VR game is built in the [Unity](https://unity.com/) (version 2018
 
 
 ## System Requirements:
-# Software:
+Software:
 * [Unity](https://unity3d.com/unity/whats-new/unity-2018.3.0) version 2018.3.0f2 .
 * [3D Systems Openhaptics Unity Plugin](https://assetstore.unity.com/packages/tools/integration/3d-systems-openhaptics-unity-plugin-134024).
 * [Openhaptics](https://3dssupport.microsoftcrmportals.com/knowledgebase/article/KA-01460/en-us) 3.5 SDK.
 * [Touch Device Drivers](https://softwaresupport.3dsystems.com/).
-# Hardware:
+Hardware:
 * [3D systems Touch X](https://www.3dsystems.com/haptics-devices/touch-x).
 * [Oculus Rift](https://www.oculus.com/).
 
