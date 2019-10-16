@@ -14,10 +14,23 @@ This immersive VR game is built in the [Unity](https://unity.com/) (version 2018
 
 
 
+## Dependencies
+* [Psychtoolbox](http://psychtoolbox.org/credits/) in Matlab.
+* [VLFeat Matlab toolbox](http://www.vlfeat.org/download.html) (vlfeat-0.9.20). 
+* [Yael for Matlab](http://yael.gforge.inria.fr/matlab_interface.html) (yael_v438).
+* [Dense trajectories video descriptors](https://lear.inrialpes.fr/people/wang/dense_trajectories) (third version).
+* [ffmpeg-0.11.1](https://ffmpeg.org/releases/).
+
+
+## Demo
+
+
+
+
 
 ##
 <div class="image12">
-    <p align="center"><img width = 55% src="MLDS_Experiment/Z_demo/ui.gif"></p>
+    <p align="center"><img width = 55% src="https://media.giphy.com/media/YmV2XThNIhWvT6x70s/giphy.gif"></p>
 </div>
 <p align="center">Maximum likelihood differential scaling (MLDS)</strong></p>
 
@@ -35,12 +48,7 @@ This immersive VR game is built in the [Unity](https://unity.com/) (version 2018
 <p align="center">Computational modeling of human perceptual scale</strong></p>
 
 
-## Dependencies
-* [Psychtoolbox](http://psychtoolbox.org/credits/) in Matlab.
-* [VLFeat Matlab toolbox](http://www.vlfeat.org/download.html) (vlfeat-0.9.20). 
-* [Yael for Matlab](http://yael.gforge.inria.fr/matlab_interface.html) (yael_v438).
-* [Dense trajectories video descriptors](https://lear.inrialpes.fr/people/wang/dense_trajectories) (third version).
-* [ffmpeg-0.11.1](https://ffmpeg.org/releases/).
+
 
 
 ## References
