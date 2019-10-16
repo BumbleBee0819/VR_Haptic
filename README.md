@@ -14,12 +14,18 @@ This immersive VR game is built in the [Unity](https://unity.com/) (version 2018
 
 
 
-## Dependencies
-* [Psychtoolbox](http://psychtoolbox.org/credits/) in Matlab.
-* [VLFeat Matlab toolbox](http://www.vlfeat.org/download.html) (vlfeat-0.9.20). 
-* [Yael for Matlab](http://yael.gforge.inria.fr/matlab_interface.html) (yael_v438).
-* [Dense trajectories video descriptors](https://lear.inrialpes.fr/people/wang/dense_trajectories) (third version).
-* [ffmpeg-0.11.1](https://ffmpeg.org/releases/).
+## System Requirements:
+# Software:
+* [Unity](https://unity3d.com/unity/whats-new/unity-2018.3.0) version 2018.3.0f2 .
+* [3D Systems Openhaptics Unity Plugin](https://assetstore.unity.com/packages/tools/integration/3d-systems-openhaptics-unity-plugin-134024).
+* [Openhaptics](https://3dssupport.microsoftcrmportals.com/knowledgebase/article/KA-01460/en-us) 3.5 SDK.
+* [Touch Device Drivers](https://softwaresupport.3dsystems.com/).
+# Hardware:
+* [3D systems Touch X](https://www.3dsystems.com/haptics-devices/touch-x).
+* [Oculus Rift](https://www.oculus.com/).
+
+
+
 
 
 ## Demo
