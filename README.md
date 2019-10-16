@@ -28,7 +28,6 @@ Hardware:
 
 
 
-
 ## Demo
 Equipment ([High resolution](https://www.youtube.com/embed/r5r8Opkl3zw?autoplay=1))             |  User Interface ([High resolution](https://www.youtube.com/embed/9etHTGH1M8Y?autoplay=1))
 :-------------------------:|:-------------------------:
@@ -36,19 +35,11 @@ Equipment ([High resolution](https://www.youtube.com/embed/r5r8Opkl3zw?autoplay=
 
 
 
+## Usage:
+1. The experimental design is explained in [our paper](https://dl.acm.org/citation.cfm?id=3225177).
+2. For each subject, you need to run [GenerateConditionFile.py](https://github.com/BumbleBee0819/VR_Haptic/tree/master/VR_Oculus/Assets/Z_Trials/Input/GenerateConditionFile.py) to generate the condition files: [cup_mass.txt](https://github.com/BumbleBee0819/VR_Haptic/tree/master/VR_Oculus/Assets/Z_Trials/Input/cup_mass.txt), [cup_material.txt](https://github.com/BumbleBee0819/VR_Haptic/tree/master/VR_Oculus/Assets/Z_Trials/Input/cup_material.txt), and [cup_scale.txt](https://github.com/BumbleBee0819/VR_Haptic/tree/master/VR_Oculus/Assets/Z_Trials/Input/cup_scale.txt).
+3. The data for each subject is saved in the [output](https://github.com/BumbleBee0819/VR_Haptic/tree/master/VR_Oculus/Assets/Z_Trials/Output) folder.
 
-
-* Next, we extracted the dense motion trajectory features of all the cloth videos.
-
-<p align="center">
-    <img width=90% src="MotionAnalysis/Z_demo/all.gif">
-<p align="center">Dense motion trajectory features</strong></p>
-
-* Using the extracted dense motion trajectory features, we built a support vector regression (SVR) model to predict the human perceptual scale of stiffness. Codes and instruction of this experiment can be found in the [MotionAnalysis](https://github.com/BumbleBee0819/Estimating_mechanical_properties_of_cloth/tree/master/MotionAnalysis) folder.
-
-<p align="center">
-    <img width=90% src="MotionAnalysis/Z_demo/demo.gif">
-<p align="center">Computational modeling of human perceptual scale</strong></p>
 
 
 
