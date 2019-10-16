@@ -26,13 +26,13 @@ This immersive VR game is built in the [Unity](https://unity.com/) (version 2018
 
 Equipment             |  User Interface
 :-------------------------:|:-------------------------:
-![](https://github.com/BumbleBee0819/VR_Haptic/blob/master/demo/vid1.gif)  |  ![](https://github.com/BumbleBee0819/VR_Haptic/blob/master/demo/vid2.gif)
+![](https://github.com/BumbleBee0819/VR_Haptic/blob/master/demo/vid1.gif)  |  ![](https://github.com/BumbleBee0819/VR_Haptic/blob/master/demo/vid2.gif)([High resotion](https://www.youtube.com/embed/9etHTGH1M8Y?autoplay=1))
 
 
 
 
 
-[Alt text](https://www.youtube.com/embed/9etHTGH1M8Y?autoplay=1)
+
 
 
 
