@@ -35,6 +35,9 @@ Equipment ([High resolution](https://www.youtube.com/embed/r5r8Opkl3zw?autoplay=
 ![](https://github.com/BumbleBee0819/VR_Haptic/blob/master/demo/vid1.gif)  |  ![](https://github.com/BumbleBee0819/VR_Haptic/blob/master/demo/vid2.gif)
 
 
+<p align="center">
+    <img width=90% src="/demo/experiment.jpg">
+<p align="center">Cubes rendered with different materials</strong></p>
 
 ## Usage:
 * The experimental design is explained in [our paper](https://dl.acm.org/citation.cfm?id=3225177).
