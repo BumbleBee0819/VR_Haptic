@@ -10,8 +10,7 @@
     <img width=90% src="https://github.com/BumbleBee0819/VR_Haptic/blob/master/demo/Task.jpg">
 
 
-
-This immersive VR game is built in the [Unity](https://unity.com/) (version 2018.3.0f2) game engine with [Oculus Rift](https://www.oculus.com/) and [3D systems Touch X](https://www.3dsystems.com/haptics-devices/touch-x) haptic force-feedback device.
+This immersive VR game is built in the [Unity](https://unity.com/) (version 2018.3.0f2) game engine with [Oculus Rift](https://www.oculus.com/) and [3D systems Touch X](https://www.3dsystems.com/haptics-devices/touch-x) haptic force-feedback device (as shown in A. Equipment). During the game, the observer see a cube rendered with different materials (C. Material)
 
 
 
