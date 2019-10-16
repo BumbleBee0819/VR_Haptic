@@ -23,8 +23,10 @@ This immersive VR game is built in the [Unity](https://unity.com/) (version 2018
 
 
 ## Demo
- ![alt-text-1]('https://github.com/BumbleBee0819/VR_Haptic/blob/master/demo/vid1.gif' "title-1") ![alt-text-2]('https://github.com/BumbleBee0819/VR_Haptic/blob/master/demo/vid1.gif' "title-2")
 
+Solarized dark               Solarized Ocean
+:-------------------------::-------------------------:
+![](https://github.com/BumbleBee0819/VR_Haptic/blob/master/demo/vid1.gif)    ![](https://github.com/BumbleBee0819/VR_Haptic/blob/master/demo/vid1.gif)
 
 
 
