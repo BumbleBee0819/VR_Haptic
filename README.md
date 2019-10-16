@@ -32,7 +32,7 @@ Equipment             |  User Interface
 
 
 
-[![Alt text](https://img.youtube.com/vi/VID/0.jpg)](https://www.youtube.com/embed/9etHTGH1M8Y)
+[![Alt text]](https://www.youtube.com/embed/9etHTGH1M8Y)
 
 
 
