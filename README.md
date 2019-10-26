@@ -1,8 +1,8 @@
 [![GitHub issues](https://img.shields.io/github/issues/Naereen/StrapDown.js.svg)](https://github.com/BumbleBee0819/https://github.com/BumbleBee0819/VR_Haptic/issues/)
 [![C%23](https://img.shields.io/badge/language-C%23-red.svg)]()
 [![Python](https://img.shields.io/badge/language-Python-red.svg)]()
-![Total visitor](https://visitor-count-badge.herokuapp.com/total.svg?repo_id=VR_haptic)
-![Visitors in today](https://visitor-count-badge.herokuapp.com/today.svg?repo_id=VR_haptic)
+<!–– ![Total visitor](https://visitor-count-badge.herokuapp.com/total.svg?repo_id=VR_haptic)
+![Visitors in today](https://visitor-count-badge.herokuapp.com/today.svg?repo_id=VR_haptic) ––>
 > since 2019-10-15 16:07
 
 <h1 align="center"> Interaction between static visual cues and force-feedback on the perception of mass of virtual objects </h1>
